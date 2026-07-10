@@ -47,4 +47,4 @@ Analyze inventory data to monitor stock levels, pricing, product categories, and
 Dashboard screenshot included in repository.
 
 ## Dashboard preview
-![Dashboard](Dashboard.jpg)
+![Dashboard](Dashboard.png)
